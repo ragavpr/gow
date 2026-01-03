@@ -64,7 +64,7 @@ ARG DEV_PACKAGES=" \
     nano \
     htop \
     ark \
-    xdg_utils \
+    xdg-utils \
     net-tools \
     iputils-ping \
     jq \
